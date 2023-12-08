@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+*{
+font-family: 'Orbitron';
+
+}
+body{
+background-color: red;
+}
+h2 {
+color:white;
+}
+.imagine{
+border-radius:10%;
+opacity: 0.9;
+}
+table, th, td{
+border: 2px solid
+}
+table{
+border-collapse: collapse;
+height:50%;
+width:50%;
+}
+
+
+.slide{
+display: none;
+}
+
+
+
+
